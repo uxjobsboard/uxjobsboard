@@ -1,0 +1,1 @@
+[15-Mar-2016 22:25:09 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home/uxjobsbo/public_html/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
